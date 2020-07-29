@@ -3,9 +3,9 @@
       This repo provides the model implementation of Modularised way of PySpark Coding and also follows the TDD Approach for Development.
 
 
-      It is also integerated with Unit Testing with PyTest Framework. Also integrated with Code Coverage Framework with PyTest Cov.
+      It is integerated with Unit Testing with PyTest Framework. Also integrated with Code Coverage Framework with PyTest Cov.
 
-     Code is integrated with SonarQube Quality Analyser and Quality Gate.
+      Quality Analaysis integrated with SonarQube Quality Analyser and Quality Gate.
 
 
 #### Pre-Requesities
