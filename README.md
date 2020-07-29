@@ -1,6 +1,6 @@
 # Py-Spark Unit Testing Model Code Repo
 
-      This repo provides the model implementation of Modularised way of PySpark Coding and also follows the TDD Approach of Development.
+      This repo provides the model implementation of Modularised way of PySpark Coding and also follows the TDD Approach for Development.
 
 
       It is also integerated with Unit Testing with PyTest Framework. Also integrated with Code Coverage Framework with PyTest Cov.
