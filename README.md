@@ -5,12 +5,12 @@
 
       It is integerated with Unit Testing with PyTest Framework. Also integrated with Code Coverage Framework with PyTest Cov.
 
-      Quality Analaysis integrated with SonarQube Quality Analyser and Quality Gate.
+      Quality Analaysis integrated with Sonarqube Quality Analyser and Quality Gate.
 
 
 #### Pre-Requesities
 
-      1. Sonar Qube Server & Secret Token
+      1. Sonarqube Server & Secret Token
       2. Pip libararies mentioned in the Requirements.txt
 
 #### Instructions to run the Quality Analysis:
